@@ -9,18 +9,18 @@ Vue.use(VueRouter)
 const routes = [
   {
     path: '/',
-    name: 'evet-list',
+    name: 'event-list',
     component: EventList
   },
   {
     path: '/event/:id',
-    name: 'evet-show',
+    name: 'event-show',
     component: EventShow,
     props: true
   },
   {
     path: '/event/create',
-    name: 'evet-create',
+    name: 'event-create',
     component: EventCreate
   }
 ]
