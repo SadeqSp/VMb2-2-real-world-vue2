@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "feather-icons": "^4.28.0",
+    "lodash": "^4.17.21",
     "node-sass": "^5.0.0",
     "sass-loader": "^11.0.1",
     "vue": "^2.6.11",
